@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: transparent;
+}
+
+#pet {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    text-align: center;
+}
+
+#rabbit {
+    width: 100px;
+    cursor: pointer;
+}
+
+#message {
+    font-family: Arial, sans-serif;
+    color: #555;
+    margin-top: 10px;
+}
